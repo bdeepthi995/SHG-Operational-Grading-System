@@ -1,0 +1,37 @@
+[
+  {
+    "groupId": 101,
+    "groupName": "Mahila Shakti",
+    "formedDate": "2018-05-12",
+    "leader": "Rani",
+    "members": ["Rani", "Sita", "Latha", "Anitha", "Sunitha"]
+  },
+  {
+    "groupId": 102,
+    "groupName": "Sri Lakshmi",
+    "formedDate": "2019-03-18",
+    "leader": "Sita",
+    "members": ["Sita", "Kavitha", "Radha", "Meena", "Anusha"]
+  },
+  {
+    "groupId": 103,
+    "groupName": "Durga Devi",
+    "formedDate": "2017-11-25",
+    "leader": "Latha",
+    "members": ["Latha", "Padma", "Suma", "Geetha", "Bhavani"]
+  },
+  {
+    "groupId": 104,
+    "groupName": "Sai Jyothi",
+    "formedDate": "2020-07-10",
+    "leader": "Anitha",
+    "members": ["Anitha", "Sandhya", "Haritha", "Divya", "Kalyani"]
+  },
+  {
+    "groupId": 105,
+    "groupName": "Sri Venkateswara",
+    "formedDate": "2016-01-30",
+    "leader": "Sunitha",
+    "members": ["Sunitha", "Sravani", "Madhavi", "Lakshmi", "Renuka"]
+  }
+]
